@@ -17,4 +17,3 @@ class WorkCard(models.Model):
 def __int__(self):
 
     return self.date
-
